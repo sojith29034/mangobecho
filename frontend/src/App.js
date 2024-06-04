@@ -1,14 +1,10 @@
-import './App.css'
-
+import './App.css';
 import ProductList from './sections/ProductList';
 
 function App() {
-
   return (
-    <>
-      <ProductList />
-    </>
-  )
+    <ProductList />
+  );
 }
 
-export default App
+export default App;

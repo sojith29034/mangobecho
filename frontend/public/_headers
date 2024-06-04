@@ -1,5 +1,0 @@
-/*    # This line matches all paths
-  Content-Type: text/html; charset=UTF-8
-
-/static/js/*    # This line matches all JavaScript files in the static/js directory
-  Content-Type: application/javascript
