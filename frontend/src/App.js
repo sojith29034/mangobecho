@@ -1,9 +1,17 @@
-import './App.css';
+import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import ProductList from './sections/ProductList';
+import Cart from './sections/Cart';
+import { CartProvider } from 'react-use-cart';
 
 function App() {
   return (
-    <ProductList />
+    
+      <CartProvider>
+        <ProductList />
+        <hr/>
+        <Cart />
+      </CartProvider>
   );
 }
 

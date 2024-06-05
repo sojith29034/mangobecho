@@ -1,26 +1,26 @@
 [
-    {
-      "id": 1,
-      "name": "Mango 1",
-      "price": 140,
-      "image": "path/to/image1.jpg" 
-    },
-    {
-      "id": 2,
-      "name": "Mango 2",
-      "price": 150,
-      "image": "path/to/image2.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Mango 3",
-      "price": 210,
-      "image": "path/to/image3.jpg"
-    },
-    {
-      "id": 4,
-      "name": "Mango 4",
-      "price": 210,
-      "image": "path/to/image4.jpg"
-    }
+  {
+    "id": 1,
+    "name": "Mango 1",
+    "price": 140,
+    "image": "path/to/image1.jpg" 
+  },
+  {
+    "id": 2,
+    "name": "Mango 2",
+    "price": 150,
+    "image": "path/to/image2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mango 3",
+    "price": 210,
+    "image": "path/to/image3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mango 4",
+    "price": 210,
+    "image": "path/to/image4.jpg"
+  }
 ]
